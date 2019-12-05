@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -82.4278619086034,
+            35.3445949157828
+          ],
+          [
+            -82.4277758808538,
+            35.3444604450807
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "asset_id": "37030348",
+        "circuit": "65251206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -82.4305388529378,
+            35.347846951644
+          ],
+          [
+            -82.4305509146825,
+            35.3478373718511
+          ],
+          [
+            -82.4305873459506,
+            35.3478090825334
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "asset_id": "398011092",
+        "circuit": "65251206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -82.4286039330455,
+            35.3458784499478
+          ],
+          [
+            -82.4284653808546,
+            35.3457505098205
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "asset_id": "35561821",
+        "circuit": "65251206"
+      },
+      "type": "Feature"
+    }
+  ]
+}
